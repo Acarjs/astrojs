@@ -1,0 +1,13 @@
+---
+title: Astro On Netlify Edge Functions
+slug: astro-on-netlify-edge-functions
+excerpt: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo laboriosam labore error suscipit quo in distinctio rem? Rerum autem, ex maxime exercitationem quam eligendi voluptatibus. Nam, fugiat. Tempore, delectus! Ex, illo. Modi harum aliquid voluptatum reiciendis, unde asperiores distinctio ab sequi eius tempora reprehenderit cum assumenda itaque nostrum. Quae, repellat?
+date: 2022-08-01
+author: John Doe
+---
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, magni? Nostrum reprehenderit, quia molestias expedita itaque hic alias recusandae quasi at sint libero ab id cupiditate quos earum ipsam. Eligendi possimus impedit dicta, totam placeat optio labore, ullam alias, sed sequi deleniti. Nulla iste eaque modi autem veritatis commodi totam laudantium cumque, inventore perferendis ut similique. Distinctio maxime repellat mollitia voluptas accusantium praesentium! Porro sunt accusamus a nemo neque! Consectetur modi soluta eligendi cum asperiores ea non quasi ipsum delectus ducimus. Deleniti assumenda sit sed, mollitia voluptate dolore, nisi deserunt vero, reiciendis quam cumque itaque ratione iste odio quaerat a.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, magni? Nostrum reprehenderit, quia molestias expedita itaque hic alias recusandae quasi at sint libero ab id cupiditate quos earum ipsam. Eligendi possimus impedit dicta, totam placeat optio labore, ullam alias, sed sequi deleniti. Nulla iste eaque modi autem veritatis commodi totam laudantium cumque, inventore perferendis ut similique. Distinctio maxime repellat mollitia voluptas accusantium praesentium! Porro sunt accusamus a nemo neque! Consectetur modi soluta eligendi cum asperiores ea non quasi ipsum delectus ducimus. Deleniti assumenda sit sed, mollitia voluptate dolore, nisi deserunt vero, reiciendis quam cumque itaque ratione iste odio quaerat a.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, magni? Nostrum reprehenderit, quia molestias expedita itaque hic alias recusandae quasi at sint libero ab id cupiditate quos earum ipsam. Eligendi possimus impedit dicta, totam placeat optio labore, ullam alias, sed sequi deleniti. Nulla iste eaque modi autem veritatis commodi totam laudantium cumque, inventore perferendis ut similique. Distinctio maxime repellat mollitia voluptas accusantium praesentium! Porro sunt accusamus a nemo neque! Consectetur modi soluta eligendi cum asperiores ea non quasi ipsum delectus ducimus. Deleniti assumenda sit sed, mollitia voluptate dolore, nisi deserunt vero, reiciendis quam cumque itaque ratione iste odio quaerat a.

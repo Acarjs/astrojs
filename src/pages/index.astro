@@ -8,7 +8,13 @@ import Tabs from "../components/Tabs.astro";
 ---
 
 <Layout title="Hello">
-  <Showcase showExtra={true} />
+  <Showcase
+    showExtra={true}
+    heading="Welcome To The Astro Crash Course!"
+    ,
+    text=" Build super fast HTML-first websites using your favorite JavaScript frameworks"
+    ,
+  />
   <Features />
 
   <section class="page-content">
